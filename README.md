@@ -1,6 +1,6 @@
-# Hello-World
+# hello-world
 
-Hello, World!
+hello, world!
 
 # License
 
